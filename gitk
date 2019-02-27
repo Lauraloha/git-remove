@@ -1,0 +1,23 @@
+Last login: Wed Feb 27 14:38:37 on ttys000
+admin@Mac-204:~$ sudo apt install gitk
+Password:
+No Java runtime present, requesting install.
+admin@Mac-204:~$ pwd
+/Users/admin
+admin@Mac-204:~$ ls
+Applications/           Movies/                 code/
+Desktop/                Music/                  school/
+Documents/              Pictures/               wild/
+Downloads/              Public/
+Library/                Résultat de Terminal
+admin@Mac-204:~$ cd Documents/quetes/
+admin@Mac-204:~/Documents/quetes$ ls
+README.md
+admin@Mac-204:~/Documents/quetes$ gitk
+admin@Mac-204:~/Documents/quetes$ gitk
+ 
+
+
+
+
+
